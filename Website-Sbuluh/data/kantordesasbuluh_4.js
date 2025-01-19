@@ -1,1 +1,0 @@
-var json_kantordesasbuluh_4 = {"type":"FeatureCollection","name":"kantordesasbuluh_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","gambar":"C:\\Users\\nndo\\Pictures\\WhatsApp Image 2025-01-18 at 21.21.20.jpeg"},"geometry":{"type":"Point","coordinates":[101.416182013370843,-0.268445918473874]}}]}
